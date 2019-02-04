@@ -2,9 +2,9 @@ README
 
 This game consists on playing tetris with numbers of the form 2^n, n = 1,2,3,4....The main purpose is to locate adjacent powers of 2 
 in order to score. For example, if you locate a 4 on the right side of a 2 (in the same row off coarse) your score will be 6, the 2 
-will dissapear and the 4 becomes a 2 (a.k.a matrix will be updated). But if you do the opposite yo get no score. The game finishes either
-if you run out of 0s to locate a number in the matrix, or if you reach 1000 points or more. The 'NumTetris.m' file contains the game
-class, and the actual game script (the one that you should run) is on the 'numTetrisGame.m' file.
+will dissapear and the 4 becomes a 2 (a.k.a matrix will be updated). But if you do the opposite yo get no score. The game finishes 
+eitherif you run out of 0s to locate a number in the matrix, or if you reach 1000 points or more. The 'NumTetris.m' file contains 
+the game class, and the actual game script (the one that you should run) is on the 'numTetrisGame.m' file.
 
 Good luck! 
 
