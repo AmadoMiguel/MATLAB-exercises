@@ -1,4 +1,5 @@
 classdef NumTetris < handle
+    % Author: Miguel Amado
     %NumTetris Contains required properties and methods for the game.
     %   The game consists in playing a numeric tetris with only numbers of 
     %   the form 2^n, where n = [1,2,3,4,5,...]. The purpose of the game is
